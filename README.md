@@ -10,8 +10,8 @@ This repository contains the official branding assets of:
 
 Including:
 
-- Master SVG files (vector format)
-- PNG versions for compatibility
+- Master JPG files (graphic format)
+- JPG versions for compatibility
 - Cryptographic hash (SHA-256)
 - Branding metadata for blockchain integration
 
