@@ -19,7 +19,7 @@ Including:
 
 ## Identity
 
-- **Name:** NESGESFinance Ecosystem  
+- **Name:** NESGESFinance Ecosystem  S.A.S. 
 - **Tagline:** Tokenización con Propósito  
 - **Symbol:** NGF BTC·AM  
 - **Structure:** S.A.S.-LLC  
